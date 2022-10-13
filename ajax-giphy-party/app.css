@@ -1,0 +1,23 @@
+.text-nodanger {
+  text-align: center;
+  color: white;
+  font-size: 40px;
+}
+
+.form-container {
+  text-align: center;
+}
+
+body {
+  background-color: black;
+}
+#button-giphy {
+  padding: 5px;
+}
+#button-images {
+  padding: 5px;
+  background-color: red;
+}
+#text-search {
+  padding: 5px;
+}
